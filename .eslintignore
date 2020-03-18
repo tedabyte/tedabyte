@@ -1,0 +1,19 @@
+# .eslintignore
+
+build/*.js
+config/*.js
+
+static/*
+static/*.js
+
+.deploy/*
+
+.nuxt/*
+.nuxt/*.js
+.nuxt/*.vue
+
+utils/scroll-to-anywhere.ts
+
+plugins/ga.js
+plugins/copy-right.js
+plugins/baidu-seo-push.js
